@@ -1,0 +1,15 @@
+/Users/ianlewis/Projects/T-3/T-3/bin/Debug/net5.0/T-3.deps.json
+/Users/ianlewis/Projects/T-3/T-3/bin/Debug/net5.0/T-3.runtimeconfig.json
+/Users/ianlewis/Projects/T-3/T-3/bin/Debug/net5.0/T-3.runtimeconfig.dev.json
+/Users/ianlewis/Projects/T-3/T-3/bin/Debug/net5.0/T-3.dll
+/Users/ianlewis/Projects/T-3/T-3/bin/Debug/net5.0/ref/T-3.dll
+/Users/ianlewis/Projects/T-3/T-3/bin/Debug/net5.0/T-3.pdb
+/Users/ianlewis/Projects/T-3/T-3/obj/Debug/net5.0/T-3.csproj.AssemblyReference.cache
+/Users/ianlewis/Projects/T-3/T-3/obj/Debug/net5.0/T-3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ianlewis/Projects/T-3/T-3/obj/Debug/net5.0/T-3.AssemblyInfoInputs.cache
+/Users/ianlewis/Projects/T-3/T-3/obj/Debug/net5.0/T-3.AssemblyInfo.cs
+/Users/ianlewis/Projects/T-3/T-3/obj/Debug/net5.0/T-3.csproj.CoreCompileInputs.cache
+/Users/ianlewis/Projects/T-3/T-3/obj/Debug/net5.0/T-3.dll
+/Users/ianlewis/Projects/T-3/T-3/obj/Debug/net5.0/ref/T-3.dll
+/Users/ianlewis/Projects/T-3/T-3/obj/Debug/net5.0/T-3.pdb
+/Users/ianlewis/Projects/T-3/T-3/obj/Debug/net5.0/T-3.genruntimeconfig.cache
